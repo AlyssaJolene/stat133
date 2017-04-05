@@ -1,0 +1,8 @@
+---
+title: "Lab 8"
+author: "Alyssa Jolene Alvarez"
+date: "April 5, 2017"
+output: html_document
+---
+
+My first file in my new `stat133` git repo.
